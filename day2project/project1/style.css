@@ -1,0 +1,31 @@
+.a-head {
+    float: top;
+    height: 20%;
+    background-color: dimgray;
+}
+.left-arm {
+    float: left;
+    height: 100%;
+    width: 10%;
+    background-color: darkgray;
+    
+}
+.right-arm {
+    float: right;
+    height: 100%;
+    width: 10%;
+    background-color: darkgray;
+
+}
+.a-toe {
+    position: fixed;
+    right: 10%;
+    bottom: 0;
+    left: 10%;
+    height: 10%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
